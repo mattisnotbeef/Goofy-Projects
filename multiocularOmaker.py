@@ -1,3 +1,5 @@
+#fun little program
+
 sentence = str(input("type your sentence/paragraph here"))
 
 def multiocularOmaker(sentence):
